@@ -73,3 +73,7 @@ docker run -p 3000:3000 -d -e OPENAI_API_KEY=your_openai_api_key promptdefi-pars
 ```
 
 The application is now accessible at http://localhost:3000.
+
+or 
+
+Test the live application at https://digberi.github.io/promptdefi-web/
